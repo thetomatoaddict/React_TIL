@@ -1,0 +1,15 @@
+.slow {
+    height: 300px;
+    width: 200px;
+    color: aquamarine;
+}
+
+.fast {
+    height: 300px;
+    width: 200px;
+    color: aquamarine;
+}
+
+.bg {
+    background-color: burlywood;
+}

@@ -1,0 +1,42 @@
+.App {
+  text-align: center;
+}
+
+.main-bg {
+  height: 350px;
+  background-image: url(./bg.png);
+  background-size: cover;
+  background-position: center;
+}
+
+.p-img {
+  width: 260px;
+  background-size: cover;
+  background-position: center;
+}
+
+.link {
+  text-decoration: none;
+}
+
+.modal {
+background-color: rgb(226, 252, 140);
+padding: 20px;
+height: 100px;
+
+}
+
+.fadeinstart{
+  opacity: 0;
+}
+
+.fadeinend{
+  opacity: 1;
+  transition: opacity 0.8s;
+}
+
+.thumnail {
+  width: 60px;
+  background-size: cover;
+  background-position: center;
+}
